@@ -1,0 +1,9 @@
+.cardContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  align-items: center;
+}
+.quistion-container {
+  border: 5 px solid red;
+}
