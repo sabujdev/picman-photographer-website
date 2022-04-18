@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Wedding ",
+    "price": "300",
+    "description": "6 hours duratio, 100 personal photograph, 1 edited video, 20 printed copy,1 digital album.",
+    "img": "https://i.pinimg.com/564x/0b/38/32/0b3832dd17e92d89aa1fff34c5c6e7c2.jpg"
+  },
+  {
+    "id": 2,
+    "name": " Videography",
+    "price": "100",
+    "description": "6 hours duratio, 100 personal photograph, 1 edited video, 20 printed copy,1 digital album.",
+    "img": "https://i.pinimg.com/564x/0c/85/db/0c85dbbdfe9a40a4385a5391fd62f30e.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Special Event ",
+    "price": "150",
+    "description": "6 hours duratio, 100 personal photograph, 1 edited video, 20 printed copy,1 digital album.",
+    "img": "https://i.pinimg.com/564x/95/c7/c9/95c7c9dd993bee508b0d089a92a82c9a.jpg"
+  }
+]
