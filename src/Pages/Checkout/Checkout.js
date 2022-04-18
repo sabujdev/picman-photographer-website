@@ -4,9 +4,6 @@ import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const Checkout = () => {
-    // const handleSubmit = ()=>{
-        
-    // }
     return (
         <div>
              <h2> Please Checkout your booking</h2>
@@ -41,6 +38,7 @@ const Checkout = () => {
   <Button variant="primary" onClick={()=>toast('Welcome to Submit')} type="submit">
     Submit
   </Button>
+
 </Form>
         </div>
     );

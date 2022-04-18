@@ -6,6 +6,23 @@ Click here to create private repo: [https://github.com/programming-hero-web-cour
 
 live website link : (https://picman-photographer.web.app)
 
+## Project Description
+
+**Front-End**
+->React.js,
+->React router,
+->Firebase Authentication,
+->React firebase hook
+->CSS-Framework
+->Row CSS.
+->React Bootstrap,
+
+## Features Overview:
+
+- User friendly UI.
+- Users can easily register .
+- Fully responsive layout for all type of devices.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
