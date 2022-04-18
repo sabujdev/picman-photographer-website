@@ -9,7 +9,7 @@ const About = () => {
         <Card>
           <Card.Img variant="top" src={img} style={{ width: "18rem" }} />
           <Card.Body>
-            <Card.Title>Card title</Card.Title>
+            <Card.Title>Sabuj Mahonto</Card.Title>
             <Card.Text>
              <div>
              Hello! I'm Sabuj Mahonto,I develop web applications, My core skill
