@@ -6,12 +6,13 @@ import {getAuth} from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBDC9DgoqM6xMo3VhmIybt8Nt57I9kyrRQ",
-    authDomain: "picman-photographer.firebaseapp.com",
-    projectId: "picman-photographer",
-    storageBucket: "picman-photographer.appspot.com",
-    messagingSenderId: "727022466057",
-    appId: "1:727022466057:web:243c4478340f837ecb74d8"
+    apiKey:process.envREACT_APP_apiKey,
+    authDomain:process.envREACT_APP_authDomain,
+    projectId:process.envREACT_APP_projectId,
+    storageBucket:process.envREACT_APP_storageBucket,
+    messagingSenderId:process.envREACT_APP_messagingSenderId,
+    appId:process.envREACT_APP_appId,
+
   };
 
 // Initialize Firebase
